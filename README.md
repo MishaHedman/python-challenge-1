@@ -1,4 +1,3 @@
-# python-challenge-restart
 # Menu dictionary
 menu = {
     "Snacks": {
